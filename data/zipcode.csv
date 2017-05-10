@@ -1,0 +1,264 @@
+FID,ZIPCODE,BLDGZIP,PO_NAME,POPULATION,AREA,STATE,COUNTY,ST_FIPS,CTY_FIPS,URL,SHAPE_AREA,SHAPE_LEN
+0,11436,0,Jamaica,18681,22699295.46,NY,Queens,36,081,http://www.usps.com/,0,0
+1,11213,0,Brooklyn,62426,29631004.44,NY,Kings,36,047,http://www.usps.com/,0,0
+2,11212,0,Brooklyn,83866,41972104.07,NY,Kings,36,047,http://www.usps.com/,0,0
+3,11225,0,Brooklyn,56527,23698630.12,NY,Kings,36,047,http://www.usps.com/,0,0
+4,11218,0,Brooklyn,72280,36868798.99,NY,Kings,36,047,http://www.usps.com/,0,0
+5,11226,0,Brooklyn,106132,39408598.28,NY,Kings,36,047,http://www.usps.com/,0,0
+6,11219,0,Brooklyn,92561,42002738.47,NY,Kings,36,047,http://www.usps.com/,0,0
+7,11210,0,Brooklyn,67067,47887022.99,NY,Kings,36,047,http://www.usps.com/,0,0
+8,11230,0,Brooklyn,80857,49926703.39,NY,Kings,36,047,http://www.usps.com/,0,0
+9,11204,0,Brooklyn,77354,43555184.61,NY,Kings,36,047,http://www.usps.com/,0,0
+10,10471,0,Bronx,23477,89651407.06,NY,Bronx,36,005,http://www.usps.com/,0,0
+11,10470,0,Bronx,14740,21543461.58,NY,Bronx,36,005,http://www.usps.com/,0,0
+12,10466,0,Bronx,68942,55262490.61,NY,Bronx,36,005,http://www.usps.com/,0,0
+13,10467,0,Bronx,97932,69336166.37,NY,Bronx,36,005,http://www.usps.com/,0,0
+14,10463,0,Bronx,70641,36703381.51,NY,Bronx,36,005,http://www.usps.com/,0,0
+15,10475,0,Bronx,40931,38633296.93,NY,Bronx,36,005,http://www.usps.com/,0,0
+16,10464,0,Bronx,4438,76257484.9,NY,Bronx,36,005,http://www.usps.com/,0,0
+17,10469,0,Bronx,65101,68040887.07,NY,Bronx,36,005,http://www.usps.com/,0,0
+18,10468,0,Bronx,72877,34447604.67,NY,Bronx,36,005,http://www.usps.com/,0,0
+19,10463,0,Bronx,70641,3119701.913,NY,New York,36,061,http://www.usps.com/,0,0
+20,10458,0,Bronx,79362,35968812.9,NY,Bronx,36,005,http://www.usps.com/,0,0
+21,10034,0,New York,39149,24503892.12,NY,New York,36,061,http://www.usps.com/,0,0
+22,10033,0,New York,54284,16156054.17,NY,New York,36,061,http://www.usps.com/,0,0
+23,10462,0,Bronx,75674,53022513.78,NY,Bronx,36,005,http://www.usps.com/,0,0
+24,10040,0,New York,41033,16340742.8,NY,New York,36,061,http://www.usps.com/,0,0
+25,10453,0,Bronx,77576,25748509.27,NY,Bronx,36,005,http://www.usps.com/,0,0
+26,10465,0,Bronx,42012,108423743.4,NY,Bronx,36,005,http://www.usps.com/,0,0
+27,10464,0,Bronx,4438,4512530.577,NY,Bronx,36,005,http://www.usps.com/,0,0
+28,10464,0,Bronx,4438,11587953.83,NY,Bronx,36,005,http://www.usps.com/,0,0
+29,10461,0,Bronx,50549,62824057.57,NY,Bronx,36,005,http://www.usps.com/,0,0
+30,10457,0,Bronx,70253,37640607.38,NY,Bronx,36,005,http://www.usps.com/,0,0
+31,10460,0,Bronx,56670,35155666.65,NY,Bronx,36,005,http://www.usps.com/,0,0
+32,10032,0,New York,57606,23159566.09,NY,New York,36,061,http://www.usps.com/,0,0
+33,10452,0,Bronx,76104,27550385.85,NY,Bronx,36,005,http://www.usps.com/,0,0
+34,10456,0,Bronx,89390,29933452.44,NY,Bronx,36,005,http://www.usps.com/,0,0
+35,10472,0,Bronx,66356,30963245.19,NY,Bronx,36,005,http://www.usps.com/,0,0
+36,10031,0,New York,57010,16902152.37,NY,New York,36,061,http://www.usps.com/,0,0
+37,10039,0,New York,24234,8419027.885,NY,New York,36,061,http://www.usps.com/,0,0
+38,10459,0,Bronx,46804,22551940.54,NY,Bronx,36,005,http://www.usps.com/,0,0
+39,10451,0,Bronx,44140,28944106.52,NY,Bronx,36,005,http://www.usps.com/,0,0
+40,10473,0,Bronx,58284,59522354.54,NY,Bronx,36,005,http://www.usps.com/,0,0
+41,10030,0,New York,26720,7757661.455,NY,New York,36,061,http://www.usps.com/,0,0
+42,10027,0,New York,58639,24695278.5,NY,New York,36,061,http://www.usps.com/,0,0
+43,10474,0,Bronx,12281,40614090.19,NY,Bronx,36,005,http://www.usps.com/,0,0
+44,10455,0,Bronx,39834,19846918.84,NY,Bronx,36,005,http://www.usps.com/,0,0
+45,10037,0,New York,16931,7188980.953,NY,New York,36,061,http://www.usps.com/,0,0
+46,10024,0,New York,58521,22877335.46,NY,New York,36,061,http://www.usps.com/,0,0
+47,10454,0,Bronx,37466,31063613.33,NY,Bronx,36,005,http://www.usps.com/,0,0
+48,10026,0,New York,34313,11092681.49,NY,New York,36,061,http://www.usps.com/,0,0
+49,10035,0,New York,34884,15445657.33,NY,New York,36,061,http://www.usps.com/,0,0
+50,10048,0,New York,0,972788.424,NY,New York,36,061,http://www.usps.com/,0,0
+51,10025,0,New York,96054,19631043.82,NY,New York,36,061,http://www.usps.com/,0,0
+52,11357,0,Whitestone,38944,77359110.61,NY,Queens,36,081,http://www.usps.com/,0,0
+53,10029,0,New York,77503,22963435.68,NY,New York,36,061,http://www.usps.com/,0,0
+54,00083,0,Central Park,25,38300990.4,NY,New York,36,061,http://www.usps.com/,0,0
+55,11356,0,College Point,23379,43321159.27,NY,Queens,36,081,http://www.usps.com/,0,0
+56,11359,0,Bayside,0,6567982.085,NY,Queens,36,081,http://www.usps.com/,0,0
+57,11360,0,Bayside,18973,38834824.17,NY,Queens,36,081,http://www.usps.com/,0,0
+58,11105,0,Astoria,36906,48795608.08,NY,Queens,36,081,http://www.usps.com/,0,0
+59,10128,0,New York,55748,11011681.56,NY,New York,36,061,http://www.usps.com/,0,0
+60,10023,0,New York,62800,15212712.68,NY,New York,36,061,http://www.usps.com/,0,0
+61,11363,0,Little Neck,7060,24242790.02,NY,Queens,36,081,http://www.usps.com/,0,0
+62,10028,0,New York,47530,9842046.48,NY,New York,36,061,http://www.usps.com/,0,0
+63,11354,0,Flushing,58525,61985147.45,NY,Queens,36,081,http://www.usps.com/,0,0
+64,11102,0,Astoria,33944,19116258.44,NY,Queens,36,081,http://www.usps.com/,0,0
+65,11370,0,East Elmhurst,40591,23600231.49,NY,Queens,36,081,http://www.usps.com/,0,0
+66,10021,0,New York,45299,10495133.41,NY,New York,36,061,http://www.usps.com/,0,0
+67,11358,0,Flushing,37743,54622541.09,NY,Queens,36,081,http://www.usps.com/,0,0
+68,11362,0,Little Neck,17707,54680551.22,NY,Queens,36,081,http://www.usps.com/,0,0
+69,10044,0,New York,11661,6296113.269,NY,New York,36,061,http://www.usps.com/,0,0
+70,11369,0,East Elmhurst,38116,30060493.25,NY,Queens,36,081,http://www.usps.com/,0,0
+71,11103,0,Astoria,38234,20222394.63,NY,Queens,36,081,http://www.usps.com/,0,0
+72,11106,0,Astoria,38665,23866112.73,NY,Queens,36,081,http://www.usps.com/,0,0
+73,11368,0,Corona,109069,72489663.28,NY,Queens,36,081,http://www.usps.com/,0,0
+74,11377,0,Woodside,90852,71832387.49,NY,Queens,36,081,http://www.usps.com/,0,0
+75,11355,0,Flushing,82809,49383079.08,NY,Queens,36,081,http://www.usps.com/,0,0
+76,11101,0,Long Island City,26254,78962088.74,NY,Queens,36,081,http://www.usps.com/,0,0
+77,11364,0,Oakland Gardens,33937,84259665.05,NY,Queens,36,081,http://www.usps.com/,0,0
+78,10018,0,New York,5503,10705796.48,NY,New York,36,061,http://www.usps.com/,0,0
+79,10020,0,New York,0,697297.0224,NY,New York,36,061,http://www.usps.com/,0,0
+80,11005,0,Floral Park,3533,9075527.404,NY,Queens,36,081,http://www.usps.com/,0,0
+81,10017,0,New York,15918,9794383.24,NY,New York,36,061,http://www.usps.com/,0,0
+82,10001,0,New York,22413,17794940.77,NY,New York,36,061,http://www.usps.com/,0,0
+83,10011,0,New York,50594,18118416.85,NY,New York,36,061,http://www.usps.com/,0,0
+84,10016,0,New York,54606,15042403.04,NY,New York,36,061,http://www.usps.com/,0,0
+85,11104,0,Sunnyside,27127,12084432.12,NY,Queens,36,081,http://www.usps.com/,0,0
+86,11109,0,Long Island City,2752,581237.1506,NY,Queens,36,081,http://www.usps.com/,0,0
+87,10010,0,New York,29881,9768395.57,NY,New York,36,061,http://www.usps.com/,0,0
+88,11367,0,Flushing,41773,72810151.59,NY,Queens,36,081,http://www.usps.com/,0,0
+89,10014,0,New York,31328,14151052.03,NY,New York,36,061,http://www.usps.com/,0,0
+90,10003,0,New York,55878,15538376.27,NY,New York,36,061,http://www.usps.com/,0,0
+91,11222,0,Brooklyn,36315,42825293.24,NY,Kings,36,047,http://www.usps.com/,0,0
+92,10002,0,New York,81305,26280128.54,NY,New York,36,061,http://www.usps.com/,0,0
+93,11378,0,Maspeth,35473,66260538.74,NY,Queens,36,081,http://www.usps.com/,0,0
+94,10009,0,New York,61455,15903519.3,NY,New York,36,061,http://www.usps.com/,0,0
+95,10012,0,New York,24276,9193739,NY,New York,36,061,http://www.usps.com/,0,0
+96,10013,0,New York,27985,15580578.83,NY,New York,36,061,http://www.usps.com/,0,0
+97,10007,0,New York,7323,5327870.977,NY,New York,36,061,http://www.usps.com/,0,0
+98,11237,0,Brooklyn,49335,27425868.17,NY,Kings,36,047,http://www.usps.com/,0,0
+99,11385,0,Ridgewood,98436,124786310.9,NY,Queens,36,081,http://www.usps.com/,0,0
+100,10038,0,New York,19127,7022760.643,NY,New York,36,061,http://www.usps.com/,0,0
+101,11206,0,Brooklyn,83575,40700720.97,NY,Kings,36,047,http://www.usps.com/,0,0
+102,10006,0,New York,3011,1716640.92,NY,New York,36,061,http://www.usps.com/,0,0
+103,11412,0,Saint Albans,35019,45842752.23,NY,Queens,36,081,http://www.usps.com/,0,0
+104,10005,0,New York,8107,2082901.141,NY,New York,36,061,http://www.usps.com/,0,0
+105,11251,0,Brooklyn,74,10245952.25,NY,Kings,36,047,http://www.usps.com/,0,0
+106,10004,0,New York,2187,4002521.097,NY,New York,36,061,http://www.usps.com/,0,0
+107,11411,0,Cambria Heights,18216,35889597.38,NY,Queens,36,081,http://www.usps.com/,0,0
+108,11201,0,Brooklyn,53041,41094886.77,NY,Kings,36,047,http://www.usps.com/,0,0
+109,10004,0,New York,2187,1202707.707,NY,New York,36,061,http://www.usps.com/,0,0
+110,11205,0,Brooklyn,41125,23270147.95,NY,Kings,36,047,http://www.usps.com/,0,0
+111,11208,0,Brooklyn,94410,79303684.26,NY,Kings,36,047,http://www.usps.com/,0,0
+112,11207,0,Brooklyn,93556,73966260.54,NY,Kings,36,047,http://www.usps.com/,0,0
+113,10004,0,New York,2187,7679615.511,NY,New York,36,061,http://www.usps.com/,0,0
+114,10004,0,New York,2187,670708.02,NY,New York,36,061,http://www.usps.com/,0,0
+115,11413,0,Springfield Gardens,39349,86208498.59,NY,Queens,36,081,http://www.usps.com/,0,0
+116,11217,0,Brooklyn,36615,21648157.8,NY,Kings,36,047,http://www.usps.com/,0,0
+117,11238,0,Brooklyn,46664,29429423.46,NY,Kings,36,047,http://www.usps.com/,0,0
+118,11231,0,Brooklyn,33144,39379691.79,NY,Kings,36,047,http://www.usps.com/,0,0
+119,11422,0,Rosedale,30139,60120657.21,NY,Queens,36,081,http://www.usps.com/,0,0
+120,11420,0,South Ozone Park,44538,61879568.37,NY,Queens,36,081,http://www.usps.com/,0,0
+121,11417,0,Ozone Park,28562,31099087.11,NY,Queens,36,081,http://www.usps.com/,0,0
+122,11215,0,Brooklyn,63272,61922821.75,NY,Kings,36,047,http://www.usps.com/,0,0
+123,11231,0,Brooklyn,33144,701979.3853,NY,Kings,36,047,http://www.usps.com/,0,0
+124,11232,0,Brooklyn,29521,55879065.15,NY,Kings,36,047,http://www.usps.com/,0,0
+125,11430,0,Jamaica,16,199913664.3,NY,Queens,36,081,http://www.usps.com/,0,0
+126,11203,0,Brooklyn,78060,60644835.46,NY,Kings,36,047,http://www.usps.com/,0,0
+127,11239,0,Brooklyn,12562,41794660.77,NY,Kings,36,047,http://www.usps.com/,0,0
+128,11236,0,Brooklyn,94480,96373991.62,NY,Kings,36,047,http://www.usps.com/,0,0
+129,11220,0,Brooklyn,97257,47453785.79,NY,Kings,36,047,http://www.usps.com/,0,0
+130,10301,0,Staten Island,40438,105182712.6,NY,Richmond,36,085,http://www.usps.com/,0,0
+131,10303,0,Staten Island,27048,81629773.52,NY,Richmond,36,085,http://www.usps.com/,0,0
+132,11234,0,Brooklyn,85853,206201040.1,NY,Kings,36,047,http://www.usps.com/,0,0
+133,10302,0,Staten Island,18123,29555323.02,NY,Richmond,36,085,http://www.usps.com/,0,0
+134,11693,0,Far Rockaway,11052,46471727.17,NY,Queens,36,081,http://www.usps.com/,0,0
+135,11209,0,Brooklyn,69255,57842313.96,NY,Kings,36,047,http://www.usps.com/,0,0
+136,10304,0,Staten Island,41502,98226679.8,NY,Richmond,36,085,http://www.usps.com/,0,0
+137,10314,0,Staten Island,85430,473985727.1,NY,Richmond,36,085,http://www.usps.com/,0,0
+138,11228,0,Brooklyn,43080,43893024.73,NY,Kings,36,047,http://www.usps.com/,0,0
+139,11096,0,Inwood,147,1512446.305,NY,Queens,36,081,http://www.usps.com/,0,0
+140,10305,0,Staten Island,41746,111441829.3,NY,Richmond,36,085,http://www.usps.com/,0,0
+141,11229,0,Brooklyn,79608,60119326.14,NY,Kings,36,047,http://www.usps.com/,0,0
+142,11214,0,Brooklyn,89061,61096539.39,NY,Kings,36,047,http://www.usps.com/,0,0
+143,11691,0,Far Rockaway,60267,83927815.11,NY,Queens,36,081,http://www.usps.com/,0,0
+144,11096,0,Inwood,147,111973.734,NY,Queens,36,081,http://www.usps.com/,0,0
+145,11223,0,Brooklyn,79864,58702923.47,NY,Kings,36,047,http://www.usps.com/,0,0
+146,11693,0,Far Rockaway,11052,1527599.164,NY,Queens,36,081,http://www.usps.com/,0,0
+147,11692,0,Arverne,18018,23992395.38,NY,Queens,36,081,http://www.usps.com/,0,0
+148,11235,0,Brooklyn,76130,69053803.03,NY,Kings,36,047,http://www.usps.com/,0,0
+149,11693,0,Far Rockaway,11052,12270916.53,NY,Queens,36,081,http://www.usps.com/,0,0
+150,10306,0,Staten Island,55602,174102872,NY,Richmond,36,085,http://www.usps.com/,0,0
+151,11694,0,Rockaway Park,20163,48101606.61,NY,Queens,36,081,http://www.usps.com/,0,0
+152,11224,0,Brooklyn,49600,46701983.75,NY,Kings,36,047,http://www.usps.com/,0,0
+153,10308,0,Staten Island,27612,62751041.82,NY,Richmond,36,085,http://www.usps.com/,0,0
+154,11697,0,Breezy Point,4079,59789760.62,NY,Queens,36,081,http://www.usps.com/,0,0
+155,10312,0,Staten Island,58506,169087432.9,NY,Richmond,36,085,http://www.usps.com/,0,0
+156,10309,0,Staten Island,33114,215835793.5,NY,Richmond,36,085,http://www.usps.com/,0,0
+157,10307,0,Staten Island,14096,46028382.63,NY,Richmond,36,085,http://www.usps.com/,0,0
+158,10280,0,New York,3170,2234114.007,NY,New York,36,061,http://www.usps.com/,0,0
+159,11372,0,Jackson Heights,66636,20163283.87,NY,Queens,36,081,http://www.usps.com/,0,0
+160,11004,0,Glen Oaks,11776,22606526.91,NY,Queens,36,081,http://www.usps.com/,0,0
+161,11040,0,New Hyde Park,2349,6269333.412,NY,Queens,36,081,http://www.usps.com/,0,0
+162,11426,0,Bellerose,20050,49609163.54,NY,Queens,36,081,http://www.usps.com/,0,0
+163,11365,0,Fresh Meadows,40528,69385865.59,NY,Queens,36,081,http://www.usps.com/,0,0
+164,11001,0,Floral Park,3944,9155180.263,NY,Queens,36,081,http://www.usps.com/,0,0
+165,11375,0,Forest Hills,68555,55587771.83,NY,Queens,36,081,http://www.usps.com/,0,0
+166,11427,0,Queens Village,21942,39435767.42,NY,Queens,36,081,http://www.usps.com/,0,0
+167,11374,0,Rego Park,42755,25203558.58,NY,Queens,36,081,http://www.usps.com/,0,0
+168,11366,0,Fresh Meadows,13168,20358592.75,NY,Queens,36,081,http://www.usps.com/,0,0
+169,11423,0,Hollis,30243,45095032.1,NY,Queens,36,081,http://www.usps.com/,0,0
+170,11428,0,Queens Village,18818,21927545.49,NY,Queens,36,081,http://www.usps.com/,0,0
+171,11432,0,Jamaica,62075,60177575.64,NY,Queens,36,081,http://www.usps.com/,0,0
+172,11379,0,Middle Village,35428,57622817.05,NY,Queens,36,081,http://www.usps.com/,0,0
+173,11429,0,Queens Village,25116,39559398.28,NY,Queens,36,081,http://www.usps.com/,0,0
+174,11435,0,Jamaica,53404,42105899.16,NY,Queens,36,081,http://www.usps.com/,0,0
+175,11415,0,Kew Gardens,18990,16802279.51,NY,Queens,36,081,http://www.usps.com/,0,0
+176,11418,0,Richmond Hill,36607,32025130.92,NY,Queens,36,081,http://www.usps.com/,0,0
+177,11433,0,Jamaica,33679,47739432.6,NY,Queens,36,081,http://www.usps.com/,0,0
+178,11451,0,Jamaica,0,487599.7268,NY,Queens,36,081,http://www.usps.com/,0,0
+179,11221,0,Brooklyn,80232,38580480.43,NY,Kings,36,047,http://www.usps.com/,0,0
+180,11421,0,Woodhaven,39014,24314441.76,NY,Queens,36,081,http://www.usps.com/,0,0
+181,11419,0,South Richmond Hill,47054,31278858.1,NY,Queens,36,081,http://www.usps.com/,0,0
+182,11434,0,Jamaica,57989,87379704.16,NY,Queens,36,081,http://www.usps.com/,0,0
+183,11216,0,Brooklyn,53862,26478229.26,NY,Kings,36,047,http://www.usps.com/,0,0
+184,11416,0,Ozone Park,25423,18854849.8,NY,Queens,36,081,http://www.usps.com/,0,0
+185,11233,0,Brooklyn,66737,37871693.68,NY,Kings,36,047,http://www.usps.com/,0,0
+186,10055,1,New York,12,37223.53879,NY,New York,36,061,http://www.usps.com/,0,0
+187,10019,0,New York,41966,18828383.12,NY,New York,36,061,http://www.usps.com/,0,0
+188,10111,0,New York,0,103066.2533,NY,New York,36,061,http://www.usps.com/,0,0
+189,10153,1,New York,0,80339.64723,NY,New York,36,061,http://www.usps.com/,0,0
+190,10154,1,New York,0,79148.80239,NY,New York,36,061,http://www.usps.com/,0,0
+191,10152,1,New York,0,59924.99827,NY,New York,36,061,http://www.usps.com/,0,0
+192,10115,0,New York,0,71720.11547,NY,New York,36,061,http://www.usps.com/,0,0
+193,10022,0,New York,33135,12728335.62,NY,New York,36,061,http://www.usps.com/,0,0
+194,11370,0,Bronx,40591,18190205.19,NY,Bronx,36,005,http://www.usps.com/,0,0
+195,10065,0,New York,33459,11442579.55,NY,New York,36,061,http://www.usps.com/,0,0
+196,10075,0,New York,25203,4809654.276,NY,New York,36,061,http://www.usps.com/,0,0
+197,10069,0,New York,5850,2372365.889,NY,New York,36,061,http://www.usps.com/,0,0
+198,10281,0,New York,4017,955857.8219,NY,New York,36,061,http://www.usps.com/,0,0
+199,10282,0,New York,4139,1562844.987,NY,New York,36,061,http://www.usps.com/,0,0
+200,11211,0,Brooklyn,60861,40470881.67,NY,Kings,36,047,http://www.usps.com/,0,0
+201,11373,0,Elmhurst,101282,42654860.34,NY,Queens,36,081,http://www.usps.com/,0,0
+202,10279,1,New York,0,28664.70581,NY,New York,36,061,http://www.usps.com/,0,0
+203,10165,1,New York,0,40779.8152,NY,New York,36,061,http://www.usps.com/,0,0
+204,10168,1,New York,0,27810.12206,NY,New York,36,061,http://www.usps.com/,0,0
+205,10105,1,New York,0,35422.15675,NY,New York,36,061,http://www.usps.com/,0,0
+206,10118,1,New York,0,91733.71537,NY,New York,36,061,http://www.usps.com/,0,0
+207,10176,1,New York,0,18289.08973,NY,New York,36,061,http://www.usps.com/,0,0
+208,10170,1,New York,0,61793.17513,NY,New York,36,061,http://www.usps.com/,0,0
+209,10112,1,New York,0,164078.1678,NY,New York,36,061,http://www.usps.com/,0,0
+210,10122,1,New York,0,23294.6381,NY,New York,36,061,http://www.usps.com/,0,0
+211,10107,1,New York,0,23030.1759,NY,New York,36,061,http://www.usps.com/,0,0
+212,10103,1,New York,0,62713.25341,NY,New York,36,061,http://www.usps.com/,0,0
+213,10174,1,New York,0,44203.22555,NY,New York,36,061,http://www.usps.com/,0,0
+214,10166,1,New York,0,110438.6232,NY,New York,36,061,http://www.usps.com/,0,0
+215,10169,1,New York,0,66246.34637,NY,New York,36,061,http://www.usps.com/,0,0
+216,10167,1,New York,0,80926.18724,NY,New York,36,061,http://www.usps.com/,0,0
+217,10177,1,New York,0,24688.0511,NY,New York,36,061,http://www.usps.com/,0,0
+218,10172,1,New York,0,79589.1001,NY,New York,36,061,http://www.usps.com/,0,0
+219,10171,1,New York,0,23525.08592,NY,New York,36,061,http://www.usps.com/,0,0
+220,10270,1,New York,0,31255.80043,NY,New York,36,061,http://www.usps.com/,0,0
+221,10104,1,New York,0,89721.85255,NY,New York,36,061,http://www.usps.com/,0,0
+222,10271,1,New York,0,49236.8772,NY,New York,36,061,http://www.usps.com/,0,0
+223,10110,1,New York,0,21249.06352,NY,New York,36,061,http://www.usps.com/,0,0
+224,10175,1,New York,0,18685.39453,NY,New York,36,061,http://www.usps.com/,0,0
+225,10151,1,New York,0,21380.26838,NY,New York,36,061,http://www.usps.com/,0,0
+226,10173,1,New York,0,25689.42059,NY,New York,36,061,http://www.usps.com/,0,0
+227,10178,1,New York,0,51303.03763,NY,New York,36,061,http://www.usps.com/,0,0
+228,10121,1,New York,0,115104.7993,NY,New York,36,061,http://www.usps.com/,0,0
+229,10123,1,New York,0,16138.53697,NY,New York,36,061,http://www.usps.com/,0,0
+230,10106,1,New York,0,31052.55279,NY,New York,36,061,http://www.usps.com/,0,0
+231,10158,1,New York,0,35395.77014,NY,New York,36,061,http://www.usps.com/,0,0
+232,10041,1,New York,0,162236.6469,NY,New York,36,061,http://www.usps.com/,0,0
+233,10120,1,New York,0,35179.27222,NY,New York,36,061,http://www.usps.com/,0,0
+234,10278,1,New York,0,206705.9952,NY,New York,36,061,http://www.usps.com/,0,0
+235,10155,1,New York,0,24784.68854,NY,New York,36,061,http://www.usps.com/,0,0
+236,10043,1,New York,0,38262.36481,NY,New York,36,061,http://www.usps.com/,0,0
+237,10081,1,New York,0,30240.50545,NY,New York,36,061,http://www.usps.com/,0,0
+238,10096,1,New York,0,42106.11469,NY,New York,36,061,http://www.usps.com/,0,0
+239,10097,1,New York,0,65826.17798,NY,New York,36,061,http://www.usps.com/,0,0
+240,10196,1,New York,0,32502.44033,NY,New York,36,061,http://www.usps.com/,0,0
+241,10196,1,New York,0,3154.824973,NY,New York,36,061,http://www.usps.com/,0,0
+242,10275,1,New York,0,48280.415,NY,New York,36,061,http://www.usps.com/,0,0
+243,10265,1,New York,0,17229.15496,NY,New York,36,061,http://www.usps.com/,0,0
+244,10045,1,New York,0,47808.98541,NY,New York,36,061,http://www.usps.com/,0,0
+245,10047,1,New York,0,10149.77968,NY,New York,36,061,http://www.usps.com/,0,0
+246,10047,1,New York,0,10149.77968,NY,New York,36,061,http://www.usps.com/,0,0
+247,10080,1,New York,0,77111.44771,NY,New York,36,061,http://www.usps.com/,0,0
+248,10203,1,New York,0,37226.88358,NY,New York,36,061,http://www.usps.com/,0,0
+249,10259,1,New York,0,21064.31295,NY,New York,36,061,http://www.usps.com/,0,0
+250,10260,1,New York,0,52514.73508,NY,New York,36,061,http://www.usps.com/,0,0
+251,10285,1,New York,0,67350.38896,NY,New York,36,061,http://www.usps.com/,0,0
+252,10286,1,New York,0,11264.41238,NY,New York,36,061,http://www.usps.com/,0,0
+253,10035,0,New York,34884,23494871.46,NY,New York,36,061,http://www.usps.com/,0,0
+254,11371,0,Flushing,0,30558474.91,NY,Queens,36,081,http://www.usps.com/,0,0
+255,11361,0,Bayside,28496,50163518.24,NY,Queens,36,081,http://www.usps.com/,0,0
+256,10036,0,New York,23543,11395110.51,NY,New York,36,061,http://www.usps.com/,0,0
+257,11414,0,Howard Beach,26148,63928824.72,NY,Queens,36,081,http://www.usps.com/,0,0
+258,10310,0,Staten Island,25003,53463275,NY,Richmond,36,085,http://www.usps.com/,0,0
+259,11693,0,Far Rockaway,11052,3497515.78,NY,Kings,36,047,http://www.usps.com/,0,0
+260,11249,0,Brooklyn,28481,17772206.17,NY,Kings,36,047,http://www.usps.com/,0,0
+261,10162,1,New York,0,21034.88692,NY,New York,36,061,http://www.usps.com/,0,0
+262,10119,1,New York,0,126392.9735,NY,New York,36,061,http://www.usps.com/,0,0
